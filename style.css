@@ -1,0 +1,55 @@
+#header {
+	position: fixed;
+	border-style: solid;
+    border-width: 1px;
+	height: 120px;
+	width: 99%;
+	top: 0;
+	background-color: green;
+}
+
+#logo { 
+    margin-top: 6px;
+	margin-bottom: 6px;
+	margin-left: 15px;
+	height: 70px;
+	width: 70 px;
+}
+
+#menu {
+	margin-top: 60px;
+	margin-right: 500px;
+    float: right;
+}
+#menu a {
+	padding-right: 16px;
+	font-size: large;
+}
+
+#photo {
+    border-radius: 50%;
+	height: 70px;
+	width: 70 px;
+	float: right;
+	top: 1;
+	margin-right: -700px;
+}
+
+#name {
+	float: right;
+	margin-right: -720px;
+	margin-top: 80px;
+}
+
+#scrollContent {
+	margin-top: 130px;
+	height: 2000px;
+}
+
+.transparency {
+	opacity: 0.5;
+}
+
+.smallFont {
+	font-size: small;
+}
