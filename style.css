@@ -12,33 +12,37 @@
     margin-top: 6px;
 	margin-bottom: 6px;
 	margin-left: 15px;
-	height: 70px;
-	width: 70 px;
+	height: 90px;
+	width: 170px;
 }
 
 #menu {
-	margin-top: 60px;
-	margin-right: 500px;
-    float: right;
+	width: 200px;
+	margin: 0 auto;
+	margin-top: -50px;
 }
 #menu a {
-	padding-right: 16px;
 	font-size: large;
 }
 
 #photo {
     border-radius: 50%;
 	height: 70px;
-	width: 70 px;
+	width: 70px;
 	float: right;
-	top: 1;
-	margin-right: -700px;
+	margin-top: 30px;
+	margin-right: 20px;
 }
 
 #name {
 	float: right;
-	margin-right: -720px;
-	margin-top: 80px;
+	margin-top: 100px; 
+	margin-right: -80px;
+}
+
+#profile {
+	margin-top: -100px;
+	padding-right: 20px;
 }
 
 #scrollContent {
